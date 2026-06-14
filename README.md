@@ -13,3 +13,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 and important points add and new some new api key and new anthropic api key 
+
+
+
+in this code we will using local model api key cloud code and open ai key 
